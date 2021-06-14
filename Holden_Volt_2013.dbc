@@ -48,7 +48,7 @@ BO_ 309 Drive_Position: 8 XXX
 
 BO_ 495 Engine_RPM: 8 XXX
 
-BO_ 501 Drive_Position: 8 XXX
+BO_ 501 Shift_Position: 8 XXX
 
 BO_ 995 Battery_kWh: 8 XXX
 
