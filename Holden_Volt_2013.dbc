@@ -54,6 +54,7 @@ BO_ 501 Shift_Position: 8 XXX
 BO_ 995 Battery_kWh: 8 XXX
 
 BO_ 1217 Outside_Temperature: 8 XXX
+ SG_ Outside_Temperature_C : 32|8@1+ (0.5,-40) [0|255] "C" XXX
 
 BO_ 1300 VIN_Part_1: 8 XXX
 
