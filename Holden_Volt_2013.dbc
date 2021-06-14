@@ -41,6 +41,7 @@ BO_ 451 Accelerator_2: 8 XXX
 BO_ 417 Accelerator_1: 8 XXX
 
 BO_ 1001 Speed: 8 XXX
+ SG_ NEW_SIGNAL_1 : 7|16@0+ (1,0) [0|65535] "" XXX
 
 BO_ 518 Battery_SOC: 8 XXX
 
